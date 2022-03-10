@@ -1,0 +1,2 @@
+Vào trang bấm vào nút Search để lấy danh sách dữ liệu từ đường dẫn URL MockAPI với phương thức là GET
+Bấm vào hình mình cần xóa hệ thống sẽ lấy đường dẫn URL + id của dữ liệu đó và xóa với phương thức DELETE
